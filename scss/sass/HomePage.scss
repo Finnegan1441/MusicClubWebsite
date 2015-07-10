@@ -1,0 +1,32 @@
+$textMain: #9d9d9d;
+$backgroundMain: #222;
+
+
+
+html, body{
+	height: 100%;
+background-image: url("http://content.paddez.com/images/slickrick40-overall.jpg")
+
+}
+.navbar-inverse{
+		border-color: $backgroundMain;
+		color:$textMain;
+	}
+.topContainer{
+	padding-top: 100px;
+
+	height: 100%;
+	color:$textMain; 
+	background-color: $backgroundMain;
+}
+.week{
+	margin-left: 10px;
+}
+.albumTitle{
+	margin-left: 20px;
+}
+.albumImage{
+	width: 280px;
+	height: 280px;
+}
+

@@ -31,6 +31,14 @@ background-image: url("http://content.paddez.com/images/slickrick40-overall.jpg"
 	width: 280px;
 	height: 280px;
 }
+.summary{
+
+	border-right-color: $textMain;
+	border-right: solid 1px;
+	p{
+		font-size: 18px;
+	}
+}
 
 
 
@@ -39,4 +47,14 @@ background-image: url("http://content.paddez.com/images/slickrick40-overall.jpg"
 	height:200px;
 	width:200px;
 
+}
+
+
+//discussionPage
+.discussionAlbum{
+	text-align: center;
+	.discussionAlbumImage{
+		height:400px;
+		width:100%;
+	}
 }

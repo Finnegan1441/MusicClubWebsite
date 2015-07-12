@@ -1,5 +1,6 @@
 /* line 7, ../sass/HomePage.scss */
 html, body {
+  height: 100%;
   background-image: url("http://content.paddez.com/images/slickrick40-overall.jpg");
 }
 
@@ -12,6 +13,7 @@ html, body {
 /* line 16, ../sass/HomePage.scss */
 .topContainer {
   padding-top: 100px;
+  height: 100%;
   color: #9d9d9d;
   background-color: #222;
 }

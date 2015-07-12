@@ -1,0 +1,60 @@
+//all
+$textMain: #9d9d9d;
+$backgroundMain: #222;
+
+
+
+html, body{
+	height: 100%;
+background-image: url("http://content.paddez.com/images/slickrick40-overall.jpg")
+
+}
+.navbar-inverse{
+		border-color: $backgroundMain;
+		color:$textMain;
+	}
+.topContainer{
+	padding-top: 100px;
+
+	height: 100%;
+	color:$textMain; 
+	background-color: $backgroundMain;
+}
+//HomePage specific
+.week{
+	margin-left: 10px;
+}
+.albumTitle{
+	margin-left: 20px;
+}
+.albumImage{
+	width: 280px;
+	height: 280px;
+}
+.summary{
+
+	border-right-color: $textMain;
+	border-right: solid 1px;
+	p{
+		font-size: 18px;
+	}
+}
+
+
+
+//lastFM Page Specific
+.topList{
+	height:200px;
+	width:200px;
+
+}
+
+
+//discussionPage
+.discussionAlbum{
+	text-align: center;
+	.discussionAlbumImage{
+		height:400px;
+		width:100%;
+	}
+}

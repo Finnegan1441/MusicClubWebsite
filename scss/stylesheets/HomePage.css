@@ -1,0 +1,61 @@
+/* line 7, ../sass/HomePage.scss */
+html, body {
+  height: 100%;
+  background-image: url("http://content.paddez.com/images/slickrick40-overall.jpg");
+}
+
+/* line 12, ../sass/HomePage.scss */
+.navbar-inverse {
+  border-color: #222;
+  color: #9d9d9d;
+}
+
+/* line 16, ../sass/HomePage.scss */
+.topContainer {
+  padding-top: 100px;
+  height: 100%;
+  color: #9d9d9d;
+  background-color: #222;
+}
+
+/* line 24, ../sass/HomePage.scss */
+.week {
+  margin-left: 10px;
+}
+
+/* line 27, ../sass/HomePage.scss */
+.albumTitle {
+  margin-left: 20px;
+}
+
+/* line 30, ../sass/HomePage.scss */
+.albumImage {
+  width: 280px;
+  height: 280px;
+}
+
+/* line 34, ../sass/HomePage.scss */
+.summary {
+  border-right-color: #9d9d9d;
+  border-right: solid 1px;
+}
+/* line 38, ../sass/HomePage.scss */
+.summary p {
+  font-size: 18px;
+}
+
+/* line 46, ../sass/HomePage.scss */
+.topList {
+  height: 200px;
+  width: 200px;
+}
+
+/* line 54, ../sass/HomePage.scss */
+.discussionAlbum {
+  text-align: center;
+}
+/* line 56, ../sass/HomePage.scss */
+.discussionAlbum .discussionAlbumImage {
+  height: 400px;
+  width: 100%;
+}

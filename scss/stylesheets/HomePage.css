@@ -64,12 +64,16 @@ html, body {
   background-color: #222 !important;
   padding-bottom: 200px;
 }
+/* line 62, ../sass/HomePage.scss */
+.disqus_thread p {
+  background-color: #222 !important;
+}
 
-/* line 65, ../sass/HomePage.scss */
+/* line 68, ../sass/HomePage.scss */
 .discussionAlbum {
   text-align: center;
 }
-/* line 67, ../sass/HomePage.scss */
+/* line 70, ../sass/HomePage.scss */
 .discussionAlbum .discussionAlbumImage {
   height: 400px;
   width: 1170px;

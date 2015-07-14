@@ -16,7 +16,7 @@ background-image: url("http://zumic.com/wp-content/uploads/2015/04/currents-tame
 .topContainer{
 	padding-top: 100px;
 
-	height: 100%;
+	min-height: 100%;
 	color:$textMain; 
 	background-color: $backgroundMain !important;
 }
@@ -76,6 +76,6 @@ background-image: url("http://zumic.com/wp-content/uploads/2015/04/currents-tame
 	text-align: center;
 	.discussionAlbumImage{
 		height:400px;
-		width:1170px;
+		width:100%;
 	}
 }

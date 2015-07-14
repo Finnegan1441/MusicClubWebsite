@@ -56,6 +56,10 @@ background-image: url("http://zumic.com/wp-content/uploads/2015/04/currents-tame
 
 
 //discussionPage
+.disqus_thread{
+	background-color: $backgroundMain;
+
+}
 .discussionAlbum{
 	text-align: center;
 	.discussionAlbumImage{

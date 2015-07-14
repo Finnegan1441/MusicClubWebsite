@@ -60,10 +60,15 @@ html, body {
 }
 
 /* line 59, ../sass/HomePage.scss */
+.disqus_thread {
+  background-color: #222;
+}
+
+/* line 63, ../sass/HomePage.scss */
 .discussionAlbum {
   text-align: center;
 }
-/* line 61, ../sass/HomePage.scss */
+/* line 65, ../sass/HomePage.scss */
 .discussionAlbum .discussionAlbumImage {
   height: 400px;
   width: 1170px;

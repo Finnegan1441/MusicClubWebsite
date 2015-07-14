@@ -56,12 +56,13 @@ background-image: url("http://zumic.com/wp-content/uploads/2015/04/currents-tame
 
 
 //discussionPage
+#dsq-content #dsq-comments .dsq-comment-header{
+	background-color: $backgroundMain;
+}
 .disqus_thread{
-	background-color: $backgroundMain !important;
-	padding-bottom: 200px;
-	p{
-		background-color: $backgroundMain !important;
-	}
+	background-color: $backgroundMain;
+	
+	
 
 }
 

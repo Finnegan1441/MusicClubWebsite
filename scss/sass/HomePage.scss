@@ -6,8 +6,13 @@ $backgroundMain: #222;
 
 html, body{
 	height: 100%;
-background-image: url("http://zumic.com/wp-content/uploads/2015/04/currents-tame-impala-album-cover-art-2015-500x500.jpg")
+	@media screen and (max-width: 768px) {
 
+   background-color: $backgroundMain;
+  }
+@media screen and (min-width: 769px){
+background-image: url("http://zumic.com/wp-content/uploads/2015/04/currents-tame-impala-album-cover-art-2015-500x500.jpg")
+}
 }
 .navbar-inverse{
 		border-color: $backgroundMain;

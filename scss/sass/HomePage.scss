@@ -6,7 +6,7 @@ $backgroundMain: #222;
 
 html, body{
 	height: 100%;
-background-image: url("http://content.paddez.com/images/slickrick40-overall.jpg")
+background-image: url("http://zumic.com/wp-content/uploads/2015/04/currents-tame-impala-album-cover-art-2015-500x500.jpg")
 
 }
 .navbar-inverse{
@@ -38,9 +38,14 @@ background-image: url("http://content.paddez.com/images/slickrick40-overall.jpg"
 	p{
 		font-size: 18px;
 	}
+	h4{
+		text-align: center;
+	}
 }
 
-
+.links{
+	font-size: 30px;
+}
 
 //lastFM Page Specific
 .topList{
@@ -55,6 +60,6 @@ background-image: url("http://content.paddez.com/images/slickrick40-overall.jpg"
 	text-align: center;
 	.discussionAlbumImage{
 		height:400px;
-		width:100%;
+		width:1170px;
 	}
 }

@@ -1,7 +1,7 @@
 /* line 7, ../sass/HomePage.scss */
 html, body {
   height: 100%;
-  background-image: url("http://content.paddez.com/images/slickrick40-overall.jpg");
+  background-image: url("http://zumic.com/wp-content/uploads/2015/04/currents-tame-impala-album-cover-art-2015-500x500.jpg");
 }
 
 /* line 12, ../sass/HomePage.scss */
@@ -43,19 +43,28 @@ html, body {
 .summary p {
   font-size: 18px;
 }
+/* line 41, ../sass/HomePage.scss */
+.summary h4 {
+  text-align: center;
+}
 
 /* line 46, ../sass/HomePage.scss */
+.links {
+  font-size: 30px;
+}
+
+/* line 51, ../sass/HomePage.scss */
 .topList {
   height: 200px;
   width: 200px;
 }
 
-/* line 54, ../sass/HomePage.scss */
+/* line 59, ../sass/HomePage.scss */
 .discussionAlbum {
   text-align: center;
 }
-/* line 56, ../sass/HomePage.scss */
+/* line 61, ../sass/HomePage.scss */
 .discussionAlbum .discussionAlbumImage {
   height: 400px;
-  width: 100%;
+  width: 1170px;
 }

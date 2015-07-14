@@ -62,13 +62,14 @@ html, body {
 /* line 59, ../sass/HomePage.scss */
 .disqus_thread {
   background-color: #222;
+  margin-bottom: 200px;
 }
 
-/* line 63, ../sass/HomePage.scss */
+/* line 64, ../sass/HomePage.scss */
 .discussionAlbum {
   text-align: center;
 }
-/* line 65, ../sass/HomePage.scss */
+/* line 66, ../sass/HomePage.scss */
 .discussionAlbum .discussionAlbumImage {
   height: 400px;
   width: 1170px;

@@ -59,21 +59,16 @@ html, body {
   width: 200px;
 }
 
-/* line 59, ../sass/HomePage.scss */
-#dsq-content #dsq-comments .dsq-comment-header {
+/* line 60, ../sass/HomePage.scss */
+#disqus_thread {
   background-color: #222;
 }
 
-/* line 62, ../sass/HomePage.scss */
-.disqus_thread {
-  background-color: #222;
-}
-
-/* line 69, ../sass/HomePage.scss */
+/* line 67, ../sass/HomePage.scss */
 .discussionAlbum {
   text-align: center;
 }
-/* line 71, ../sass/HomePage.scss */
+/* line 69, ../sass/HomePage.scss */
 .discussionAlbum .discussionAlbumImage {
   height: 400px;
   width: 1170px;

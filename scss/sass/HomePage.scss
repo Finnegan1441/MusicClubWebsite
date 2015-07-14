@@ -56,7 +56,14 @@ background-image: url("http://zumic.com/wp-content/uploads/2015/04/currents-tame
 
 
 //discussionPage
-
+.tracklist{
+	h3{
+		text-align: center;
+	}
+	h4{
+		text-align: center;
+	}
+}
 #disqus_thread{
 	background-color: $backgroundMain;
 	

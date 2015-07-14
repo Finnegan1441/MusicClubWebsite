@@ -60,15 +60,24 @@ html, body {
 }
 
 /* line 60, ../sass/HomePage.scss */
+.tracklist h3 {
+  text-align: center;
+}
+/* line 63, ../sass/HomePage.scss */
+.tracklist h4 {
+  text-align: center;
+}
+
+/* line 67, ../sass/HomePage.scss */
 #disqus_thread {
   background-color: #222;
 }
 
-/* line 67, ../sass/HomePage.scss */
+/* line 74, ../sass/HomePage.scss */
 .discussionAlbum {
   text-align: center;
 }
-/* line 69, ../sass/HomePage.scss */
+/* line 76, ../sass/HomePage.scss */
 .discussionAlbum .discussionAlbumImage {
   height: 400px;
   width: 1170px;

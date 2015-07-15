@@ -38,79 +38,81 @@ html, body {
 .about {
   border-bottom: 5px dotted;
 }
-/* line 35, ../sass/HomePage.scss */
-.about .allAlbums {
+
+/* line 37, ../sass/HomePage.scss */
+.allAlbums {
   border-bottom: 5px dotted;
+  padding-bottom: 10px;
 }
 
-/* line 40, ../sass/HomePage.scss */
+/* line 42, ../sass/HomePage.scss */
 .suggestions h2 {
   text-align: center;
 }
-/* line 43, ../sass/HomePage.scss */
+/* line 45, ../sass/HomePage.scss */
 .suggestions h5 {
   text-align: center;
 }
 
-/* line 47, ../sass/HomePage.scss */
+/* line 49, ../sass/HomePage.scss */
 .albumTitle {
   margin-left: 20px;
 }
 
-/* line 50, ../sass/HomePage.scss */
+/* line 52, ../sass/HomePage.scss */
 .albumImage {
   width: 280px;
   height: 280px;
 }
 
-/* line 54, ../sass/HomePage.scss */
+/* line 56, ../sass/HomePage.scss */
 .summary {
   border-right-color: #9d9d9d;
   border-right: solid 1px;
 }
-/* line 58, ../sass/HomePage.scss */
+/* line 60, ../sass/HomePage.scss */
 .summary p {
   font-size: 18px;
 }
-/* line 61, ../sass/HomePage.scss */
+/* line 63, ../sass/HomePage.scss */
 .summary h4 {
   text-align: center;
 }
 
-/* line 66, ../sass/HomePage.scss */
+/* line 68, ../sass/HomePage.scss */
 .links {
   font-size: 30px;
 }
 
-/* line 71, ../sass/HomePage.scss */
+/* line 73, ../sass/HomePage.scss */
 .topList {
   height: 200px;
   width: 200px;
 }
 
-/* line 79, ../sass/HomePage.scss */
+/* line 81, ../sass/HomePage.scss */
 .tracklist {
   background-color: #222;
 }
-/* line 80, ../sass/HomePage.scss */
+/* line 82, ../sass/HomePage.scss */
 .tracklist h3 {
   text-align: center;
 }
-/* line 83, ../sass/HomePage.scss */
+/* line 85, ../sass/HomePage.scss */
 .tracklist h4 {
   text-align: center;
 }
 
-/* line 88, ../sass/HomePage.scss */
+/* line 90, ../sass/HomePage.scss */
 #disqus_thread {
   background-color: #222;
 }
 
-/* line 95, ../sass/HomePage.scss */
+/* line 97, ../sass/HomePage.scss */
 .discussionAlbum {
   text-align: center;
 }
-/* line 97, ../sass/HomePage.scss */
+/* line 99, ../sass/HomePage.scss */
 .discussionAlbum .discussionAlbumImage {
   height: 400px;
   width: 100%;

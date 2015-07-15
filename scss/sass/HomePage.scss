@@ -11,7 +11,7 @@ html, body{
    background-color: $backgroundMain;
   }
 @media screen and (min-width: 769px){
-background-image: url("http://zumic.com/wp-content/uploads/2015/04/currents-tame-impala-album-cover-art-2015-500x500.jpg")
+background-image: url("Currents.jpg")
 }
 }
 .navbar-inverse{
@@ -19,7 +19,7 @@ background-image: url("http://zumic.com/wp-content/uploads/2015/04/currents-tame
 		color:$textMain;
 	}
 .topContainer{
-	padding-top: 100px;
+	padding-top: 50px;
 
 	min-height: 100%;
 	color:$textMain; 
@@ -28,6 +28,11 @@ background-image: url("http://zumic.com/wp-content/uploads/2015/04/currents-tame
 //HomePage specific
 .week{
 	margin-left: 10px;
+}
+.about{
+	border-bottom: 5px dotted;
+	
+
 }
 .albumTitle{
 	margin-left: 20px;

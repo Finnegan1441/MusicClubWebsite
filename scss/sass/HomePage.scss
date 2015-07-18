@@ -55,8 +55,7 @@ background-image: url("Currents.jpg")
 }
 .summary{
 
-	border-right-color: $textMain;
-	border-right: solid 1px;
+	
 	p{
 		font-size: 18px;
 	}
@@ -64,7 +63,10 @@ background-image: url("Currents.jpg")
 		text-align: center;
 	}
 }
-
+.albumLinks{
+	border-left-color: $textMain;
+	border-left: solid 1px;
+}
 .links{
 	font-size: 30px;
 }

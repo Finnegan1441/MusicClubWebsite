@@ -1,6 +1,7 @@
 //all
 $textMain: #9d9d9d;
 $backgroundMain: #222;
+$newAbout:#FF6666;
 
 
 
@@ -11,14 +12,15 @@ html, body{
    background-color: $backgroundMain;
   }
 @media screen and (min-width: 769px){
-background-image: url("Currents.jpg")
+background-image: url("PerfectFrom.jpg")
 }
 }
 .navbar-inverse{
 		border-color: $backgroundMain;
 		color:$textMain;
 	}
-.topContainer{
+.topContainer{ 
+	border-radius: 50px;
 	padding-top: 50px;
 
 	min-height: 100%;
@@ -31,7 +33,13 @@ background-image: url("Currents.jpg")
 }
 .about{
 	border-bottom: 5px dotted;
-	
+	.newAbout{
+		color: $newAbout;
+
+	}
+	.noBullet{
+		list-style-type: none;
+	}
 
 }
 .allAlbums{
@@ -60,6 +68,9 @@ background-image: url("Currents.jpg")
 		font-size: 18px;
 	}
 	h4{
+		text-align: center;
+	}
+	h2{
 		text-align: center;
 	}
 }
@@ -96,10 +107,12 @@ background-image: url("Currents.jpg")
 
 }
 
+
 .discussionAlbum{
+	height:600px;
 	text-align: center;
 	.discussionAlbumImage{
-		height:400px;
+		height:90%;
 		width:100%;
 	}
 }

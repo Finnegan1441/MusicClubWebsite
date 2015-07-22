@@ -6,6 +6,7 @@ $newAbout:#FF6666;
 
 
 html, body{
+	
 	height: 100%;
 	@media screen and (max-width: 768px) {
 
@@ -87,6 +88,10 @@ background-image: url("PerfectFrom.jpg")
 	height:200px;
 	width:200px;
 
+}
+.mattPic{
+	height:150px;
+	width: 150px;
 }
 
 

@@ -15,13 +15,13 @@ html, body {
   }
 }
 
-/* line 18, ../sass/HomePage.scss */
+/* line 19, ../sass/HomePage.scss */
 .navbar-inverse {
   border-color: #222;
   color: #9d9d9d;
 }
 
-/* line 22, ../sass/HomePage.scss */
+/* line 23, ../sass/HomePage.scss */
 .topContainer {
   border-radius: 50px;
   padding-top: 50px;
@@ -30,104 +30,110 @@ html, body {
   background-color: #222 !important;
 }
 
-/* line 31, ../sass/HomePage.scss */
+/* line 32, ../sass/HomePage.scss */
 .week {
   margin-left: 15px;
 }
 
-/* line 34, ../sass/HomePage.scss */
+/* line 35, ../sass/HomePage.scss */
 .about {
   border-bottom: 5px dotted;
 }
-/* line 36, ../sass/HomePage.scss */
+/* line 37, ../sass/HomePage.scss */
 .about .newAbout {
   color: #FF6666;
 }
-/* line 40, ../sass/HomePage.scss */
+/* line 41, ../sass/HomePage.scss */
 .about .noBullet {
   list-style-type: none;
 }
 
-/* line 45, ../sass/HomePage.scss */
+/* line 46, ../sass/HomePage.scss */
 .allAlbums {
   border-bottom: 5px dotted;
   padding-bottom: 10px;
 }
 
-/* line 50, ../sass/HomePage.scss */
+/* line 51, ../sass/HomePage.scss */
 .suggestions h2 {
   text-align: center;
 }
-/* line 53, ../sass/HomePage.scss */
+/* line 54, ../sass/HomePage.scss */
 .suggestions h5 {
   text-align: center;
 }
 
-/* line 57, ../sass/HomePage.scss */
+/* line 58, ../sass/HomePage.scss */
 .albumTitle {
   margin-left: 20px;
 }
 
-/* line 60, ../sass/HomePage.scss */
+/* line 61, ../sass/HomePage.scss */
 .albumImage {
   width: 280px;
   height: 280px;
 }
 
-/* line 67, ../sass/HomePage.scss */
+/* line 68, ../sass/HomePage.scss */
 .summary p {
   font-size: 18px;
 }
-/* line 70, ../sass/HomePage.scss */
+/* line 71, ../sass/HomePage.scss */
 .summary h4 {
   text-align: center;
 }
-/* line 73, ../sass/HomePage.scss */
+/* line 74, ../sass/HomePage.scss */
 .summary h2 {
   text-align: center;
 }
 
-/* line 77, ../sass/HomePage.scss */
+/* line 78, ../sass/HomePage.scss */
 .albumLinks {
   border-left-color: #9d9d9d;
   border-left: solid 1px;
 }
 
-/* line 81, ../sass/HomePage.scss */
+/* line 82, ../sass/HomePage.scss */
 .links {
   font-size: 30px;
 }
 
-/* line 86, ../sass/HomePage.scss */
+/* line 87, ../sass/HomePage.scss */
 .topList {
   height: 200px;
   width: 200px;
 }
 
-/* line 94, ../sass/HomePage.scss */
+/* line 92, ../sass/HomePage.scss */
+.mattPic {
+  height: 150px;
+  width: 150px;
+}
+
+/* line 99, ../sass/HomePage.scss */
 .tracklist {
   background-color: #222;
 }
-/* line 95, ../sass/HomePage.scss */
+/* line 100, ../sass/HomePage.scss */
 .tracklist h3 {
   text-align: center;
 }
-/* line 98, ../sass/HomePage.scss */
+/* line 103, ../sass/HomePage.scss */
 .tracklist h4 {
   text-align: center;
 }
 
-/* line 103, ../sass/HomePage.scss */
+/* line 108, ../sass/HomePage.scss */
 #disqus_thread {
   background-color: #222;
 }
 
-/* line 111, ../sass/HomePage.scss */
+/* line 116, ../sass/HomePage.scss */
 .discussionAlbum {
   height: 600px;
   text-align: center;
 }
-/* line 114, ../sass/HomePage.scss */
+/* line 119, ../sass/HomePage.scss */
 .discussionAlbum .discussionAlbumImage {
   height: 90%;
   width: 100%;

@@ -11,14 +11,14 @@ html, body {
 @media screen and (min-width: 769px) {
   /* line 8, ../sass/HomePage.scss */
   html, body {
-    background-image: url("teendreambackground.jpg");
+    background-image: url("Donuts.jpg");
   }
 }
 
 /* line 19, ../sass/HomePage.scss */
 .navbar-inverse {
   border-color: #222;
-  color: #9d9d9d;
+  color: #CCFFFF;
 }
 
 /* line 23, ../sass/HomePage.scss */
@@ -26,7 +26,7 @@ html, body {
   border-radius: 50px;
   padding-top: 50px;
   min-height: 100%;
-  color: #9d9d9d;
+  color: #CCFFFF;
   background-color: #222 !important;
 }
 
@@ -94,7 +94,7 @@ html, body {
 
 /* line 81, ../sass/HomePage.scss */
 .albumLinks {
-  border-left-color: #9d9d9d;
+  border-left-color: #CCFFFF;
   border-left: solid 1px;
 }
 

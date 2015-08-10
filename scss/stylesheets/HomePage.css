@@ -50,95 +50,98 @@ html, body {
 
 /* line 46, ../sass/HomePage.scss */
 .allAlbums {
-  border-bottom: 5px dotted;
   padding-bottom: 10px;
 }
 
-/* line 51, ../sass/HomePage.scss */
+/* line 50, ../sass/HomePage.scss */
+.suggestions {
+  border-top: 5px dotted;
+}
+/* line 52, ../sass/HomePage.scss */
 .suggestions h2 {
   text-align: center;
 }
-/* line 54, ../sass/HomePage.scss */
+/* line 55, ../sass/HomePage.scss */
 .suggestions h5 {
   text-align: center;
 }
 
-/* line 58, ../sass/HomePage.scss */
+/* line 59, ../sass/HomePage.scss */
 .albumTitle {
   margin-left: 20px;
 }
 
-/* line 61, ../sass/HomePage.scss */
+/* line 62, ../sass/HomePage.scss */
 .genre {
   margin-left: 30px;
 }
 
-/* line 64, ../sass/HomePage.scss */
+/* line 65, ../sass/HomePage.scss */
 .albumImage {
   width: 280px;
   height: 280px;
 }
 
-/* line 71, ../sass/HomePage.scss */
+/* line 72, ../sass/HomePage.scss */
 .summary p {
   font-size: 18px;
 }
-/* line 74, ../sass/HomePage.scss */
+/* line 75, ../sass/HomePage.scss */
 .summary h4 {
   text-align: center;
 }
-/* line 77, ../sass/HomePage.scss */
+/* line 78, ../sass/HomePage.scss */
 .summary h2 {
   text-align: center;
 }
 
-/* line 81, ../sass/HomePage.scss */
+/* line 82, ../sass/HomePage.scss */
 .albumLinks {
   border-left-color: #CCFFFF;
   border-left: solid 1px;
 }
 
-/* line 85, ../sass/HomePage.scss */
+/* line 86, ../sass/HomePage.scss */
 .links {
   font-size: 30px;
 }
 
-/* line 90, ../sass/HomePage.scss */
+/* line 91, ../sass/HomePage.scss */
 .topList {
   height: 200px;
   width: 200px;
 }
 
-/* line 95, ../sass/HomePage.scss */
+/* line 96, ../sass/HomePage.scss */
 .mattPic {
   height: 150px;
   width: 150px;
 }
 
-/* line 102, ../sass/HomePage.scss */
+/* line 103, ../sass/HomePage.scss */
 .tracklist {
   background-color: #222;
 }
-/* line 103, ../sass/HomePage.scss */
+/* line 104, ../sass/HomePage.scss */
 .tracklist h3 {
   text-align: center;
 }
-/* line 106, ../sass/HomePage.scss */
+/* line 107, ../sass/HomePage.scss */
 .tracklist h4 {
   text-align: center;
 }
 
-/* line 111, ../sass/HomePage.scss */
+/* line 112, ../sass/HomePage.scss */
 #disqus_thread {
   background-color: #222;
 }
 
-/* line 119, ../sass/HomePage.scss */
+/* line 120, ../sass/HomePage.scss */
 .discussionAlbum {
   height: 600px;
   text-align: center;
 }
-/* line 122, ../sass/HomePage.scss */
+/* line 123, ../sass/HomePage.scss */
 .discussionAlbum .discussionAlbumImage {
   height: 90%;
   width: 100%;
